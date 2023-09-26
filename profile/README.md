@@ -1,12 +1,10 @@
-## Hi there 👋
+## A collection of plugins skins and other goodies for LCD Smartie.
 
-<!--
+<p align="center">
+  <img src="https://github.com/Limbos-goodies-for-LCDSmartie/.github/assets/331155/cc41c3d5-3e67-446b-bc0b-2000f94388e1" />
+</p>
 
-**Here are some ideas to get you started:**
+[LCD Smartie](https://github.com/stokie-ant/lcdsmartie-laz) is a great windows utility for driving character LCD Screens and displaying diagnostic messages.
+The program comes with a huge amount of build in functions but it also supports plugins. A n introduction to the program can be found on its old hosting [pages](https://lcdsmartie.sourceforge.net/) 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Here you can find few of the updated plugins and skins I've created in the period from 2005 till today. Everything is update to work with the latest version of LCD Smartie 
