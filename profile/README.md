@@ -14,7 +14,7 @@ The latest version of LCD Smartie can be found on its official github repo: http
 
 The following goodies are available for download:
 ### Plugins
-[Focus plugin](https://github.com/Limbos-goodies-for-LCDSmartie/focus_plugin)\
+
 [VU plugin](https://github.com/Limbos-goodies-for-LCDSmartie/vu)\
 [Activity Indicator plugin](https://github.com/Limbos-goodies-for-LCDSmartie/Activity_Indicator_plugin)\
 [Aida64 plugin](https://github.com/Limbos-goodies-for-LCDSmartie/Aida64_plugin)\
