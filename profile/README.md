@@ -30,7 +30,7 @@ The following goodies are available for download:
 ### Skins
 [Lunar Dust skin](https://github.com/Limbos-goodies-for-LCDSmartie/LunarDust_Skin)\
 [Erebus skin](https://github.com/Limbos-goodies-for-LCDSmartie/Erebus_Skin)\
-[Rainforest skin](https://github.com/Limbos-goodies-for-LCDSmartie/RainForest_Skin)
+[Rainforest skin](https://github.com/Limbos-goodies-for-LCDSmartie/RainForest_Skin)\
 [Dusk skin](https://github.com/Limbos-goodies-for-LCDSmartie/Dusk_Skin)
 
 
