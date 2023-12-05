@@ -32,9 +32,13 @@ The following goodies are available for download:
 [Erebus skin](https://github.com/Limbos-goodies-for-LCDSmartie/Erebus_Skin)\
 [Rainforest skin](https://github.com/Limbos-goodies-for-LCDSmartie/RainForest_Skin)\
 [Dusk skin](https://github.com/Limbos-goodies-for-LCDSmartie/Dusk_Skin)\
-[Horizon_skin](https://github.com/Limbos-goodies-for-LCDSmartie/Horizon_Skin)
-
-
+[Horizon_skin](https://github.com/Limbos-goodies-for-LCDSmartie/Horizon_Skin)\
+[Lighthouse_skin](https://github.com/Limbos-goodies-for-LCDSmartie/Lighthouse_Skin)\
+[RedHeart_skin](https://github.com/Limbos-goodies-for-LCDSmartie/RedHeart_Skin)\
+[Melancholy_skin](https://github.com/Limbos-goodies-for-LCDSmartie/Melancholy_Skin)\
+[LightsOn_skin](https://github.com/Limbos-goodies-for-LCDSmartie/LightsOn_Skin)\
+[Willow_skin](https://github.com/Limbos-goodies-for-LCDSmartie/Willow_Skin)\
+[Georgou_skin](https://github.com/Limbos-goodies-for-LCDSmartie/Georgou_Skin)
 
 
 
