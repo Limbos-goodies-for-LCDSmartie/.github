@@ -14,7 +14,7 @@ The latest version of LCD Smartie can be found on its official github repo: http
 
 The following goodies are available for download:
 ### Plugins
-[barra plugin](https://github.com/Limbos-goodies-for-LCDSmartie/barra)\ 
+[Barra plugin](https://github.com/Limbos-goodies-for-LCDSmartie/barra)\
 [VU plugin](https://github.com/Limbos-goodies-for-LCDSmartie/vu)\
 [Activity Indicator plugin](https://github.com/Limbos-goodies-for-LCDSmartie/Activity_Indicator_plugin)\
 [Aida64 plugin](https://github.com/Limbos-goodies-for-LCDSmartie/Aida64_plugin)\
@@ -38,12 +38,14 @@ The following goodies are available for download:
 [Melancholy_skin](https://github.com/Limbos-goodies-for-LCDSmartie/Melancholy_Skin)\
 [LightsOn_skin](https://github.com/Limbos-goodies-for-LCDSmartie/LightsOn_Skin)\
 [Willow_skin](https://github.com/Limbos-goodies-for-LCDSmartie/Willow_Skin)\
-[Georgou_skin](https://github.com/Limbos-goodies-for-LCDSmartie/Georgou_Skin)
-
+[Georgou_skin](https://github.com/Limbos-goodies-for-LCDSmartie/Georgou_Skin)\
+[Dracula_skin](https://github.com/limbo666/Dracula_for_LCD_Smartie) (This is a part of official Dracula theme on github) 
 
 
 ### Info
-More to be added in the future.
+
+This list is updated gradually, as many of the previous plugins are updated and new ones are created.
+
  
  
 
