@@ -15,17 +15,41 @@ The latest version of LCD Smartie can be found on its official github repo: http
 The following goodies are available for download:
 ### Plugins
 [Barra plugin](https://github.com/Limbos-goodies-for-LCDSmartie/barra)\
+An altenrative bar for LCD Smartie with mutiple styles\
+\
 [VU plugin](https://github.com/Limbos-goodies-for-LCDSmartie/vu)\
+A simple VU meter plugin taht returns the peak values of the left, right and master volume\
+\
 [Activity Indicator plugin](https://github.com/Limbos-goodies-for-LCDSmartie/Activity_Indicator_plugin)\
+A plugin to be used with the Activity Indicator HDD diagnostics utility\
+\
 [Aida64 plugin](https://github.com/Limbos-goodies-for-LCDSmartie/Aida64_plugin)\
+A plugin to get system info using the AIDA64 utility\
+\
 [CPUt plugin](https://github.com/Limbos-goodies-for-LCDSmartie/CPUt_plugin)\
+A simple utility to display CPU usage (in case that LCD Smartie build in function is not enough for you)\
+\
 [Earthquake2 plugin](https://github.com/Limbos-goodies-for-LCDSmartie/Earthquake2_plugin)\
+Get the latest earthquake info on you screen with this plugin\
+\
 [Hold And Scroll plugin](https://github.com/Limbos-goodies-for-LCDSmartie/Hold_And_Scroll_plugin)\
+This plugin keeps steady one part of the screen while scrolls a message on the rest of the availabel blocks\
+\
 [Maxim plugin](https://github.com/Limbos-goodies-for-LCDSmartie/Maxim_plugin)\
+A plugin that displays messages from a list to your screen.\
+\
 [Search And Replace plugin](https://github.com/Limbos-goodies-for-LCDSmartie/Search_And_Replace_plugin)\
+A powerful plugin to replace long texts with shorter or replace characters with symbols or replace whatever is needed to be changed on the display.\
+\
 [Split Title plugin](https://github.com/Limbos-goodies-for-LCDSmartie/Split_Title_plugin)\
+This plugins splits a text into two parts. Its is originaly cretaed to split the song title and the artist returned from Winamp.\
+\
 [Toggle Text plugin](https://github.com/Limbos-goodies-for-LCDSmartie/Toggle_Text_plugin)\
+This plugin toggles two texts on the same line.\
+\
 [Warn If plugin](https://github.com/Limbos-goodies-for-LCDSmartie/Warn_If_plugin)
+A plugin that displays a message when a condition becomes true. Supports >, < , = \
+
 
 ### Skins
 [Lunar Dust skin](https://github.com/Limbos-goodies-for-LCDSmartie/LunarDust_Skin)\
