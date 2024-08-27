@@ -51,7 +51,7 @@ This plugins splits a text into two parts. Its is originaly cretaed to split the
 This plugin toggles two texts on the same line.\
 \
 [Warn If plugin](https://github.com/Limbos-goodies-for-LCDSmartie/Warn_If_plugin)\
-A plugin that displays a message when a condition becomes true. Supports >, < , = \
+A plugin that displays a message when a condition becomes true. Supports value comparision as >, < , = 
 
 
 ### Skins
