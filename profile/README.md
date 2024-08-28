@@ -14,7 +14,7 @@ The latest version of LCD Smartie can be found on its official github repo: http
 
 The following goodies are available for download:
 ### Plugins
-[vol plugin](https://github.com/Limbos-goodies-for-LCDSmartie/vol)\
+[Volume plugin](https://github.com/Limbos-goodies-for-LCDSmartie/vol)\
 A plug for LCD Smartie to get the system volume level\
 \
 [Barra plugin](https://github.com/Limbos-goodies-for-LCDSmartie/barra)\
