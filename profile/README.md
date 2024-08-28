@@ -45,7 +45,7 @@ A plugin that displays messages from a list to your screen.\
 A powerful plugin to replace long texts with shorter or replace characters with symbols or replace whatever is needed to be changed on the display.\
 \
 [Split Title plugin](https://github.com/Limbos-goodies-for-LCDSmartie/Split_Title_plugin)\
-This plugins splits a text into two parts. Its is originaly cretaed to split the song title and the artist returned from Winamp.\
+This plugins splits a text into two parts. Its was originaly created to split song title and artist name on the title returned by Winamp.\
 \
 [Toggle Text plugin](https://github.com/Limbos-goodies-for-LCDSmartie/Toggle_Text_plugin)\
 This plugin toggles two texts on the same line.\
