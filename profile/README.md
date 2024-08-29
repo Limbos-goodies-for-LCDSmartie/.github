@@ -14,6 +14,11 @@ The latest version of LCD Smartie can be found on its official github repo: http
 
 The following goodies are available for download:
 ### Plugins
+
+
+[Probe plugin](https://github.com/Limbos-goodies-for-LCDSmartie/probe)\
+A plugin to get information about the currently active window. This can be used for Actions to switch screen and themes depending on the fucused window.\
+\
 [Volume plugin](https://github.com/Limbos-goodies-for-LCDSmartie/vol)\
 A plug for LCD Smartie to get the system volume level\
 \
