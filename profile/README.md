@@ -29,6 +29,7 @@ An altenrative bar for LCD Smartie with mutiple styles\
 \
 [VU plugin](https://github.com/Limbos-goodies-for-LCDSmartie/vu)\
 A simple VU meter plugin taht returns the peak values of the left, right and master volume\
+![VU Demo](https://github.com/Limbos-goodies-for-LCDSmartie/.github/blob/main/images/gifs/vu.gif)
 \
 [Activity Indicator plugin](https://github.com/Limbos-goodies-for-LCDSmartie/Activity_Indicator_plugin)\
 A plugin to be used with the Activity Indicator HDD diagnostics utility\
