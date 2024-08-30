@@ -18,13 +18,14 @@ The following goodies are available for download:
 
 [Probe plugin](https://github.com/Limbos-goodies-for-LCDSmartie/probe)\
 A plugin to get information about the currently active window. This can be used for Actions to switch screen and themes depending on the fucused window.\
+![Probe Demo](https://github.com/Limbos-goodies-for-LCDSmartie/.github/blob/main/images/gifs/probe.gif?raw=true)
 \
 [Volume plugin](https://github.com/Limbos-goodies-for-LCDSmartie/vol)\
 A plug for LCD Smartie to get the system volume level\
 ![Vol Demo](https://github.com/Limbos-goodies-for-LCDSmartie/.github/blob/main/images/gifs/vol.gif?raw=true)
 \
 [Barra plugin](https://github.com/Limbos-goodies-for-LCDSmartie/barra)\
-An altenrative bar for LCD Smartie with mutiple styles\
+An alternative bar for LCD Smartie with mutiple styles\
 ![Barra demo](https://github.com/Limbos-goodies-for-LCDSmartie/.github/blob/main/images/gifs/barra.gif)
 \
 [VU plugin](https://github.com/Limbos-goodies-for-LCDSmartie/vu)\
