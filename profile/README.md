@@ -24,6 +24,7 @@ A plug for LCD Smartie to get the system volume level\
 \
 [Barra plugin](https://github.com/Limbos-goodies-for-LCDSmartie/barra)\
 An altenrative bar for LCD Smartie with mutiple styles\
+![Barra demo](https://github.com/Limbos-goodies-for-LCDSmartie/.github/blob/main/images/gifs/barra.gif)
 \
 [VU plugin](https://github.com/Limbos-goodies-for-LCDSmartie/vu)\
 A simple VU meter plugin taht returns the peak values of the left, right and master volume\
