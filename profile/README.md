@@ -52,6 +52,7 @@ This plugin keeps steady one part of the screen while scrolls a message on the r
 \
 [Maxim plugin](https://github.com/Limbos-goodies-for-LCDSmartie/Maxim_plugin)\
 A plugin that displays messages from a list to your screen.\
+![Maxim Demo](https://github.com/Limbos-goodies-for-LCDSmartie/.github/blob/main/images/gifs/maxim.gif?raw=true)
 \
 [Search And Replace plugin](https://github.com/Limbos-goodies-for-LCDSmartie/Search_And_Replace_plugin)\
 A powerful plugin to replace long texts with shorter or replace characters with symbols or replace whatever is needed to be changed on the display.\
