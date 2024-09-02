@@ -98,7 +98,7 @@ A plugin that displays a message when a condition becomes true. Supports value c
 [Georgou_skin](https://github.com/Limbos-goodies-for-LCDSmartie/Georgou_Skin)\
 ![Skin Preview](https://github.com/Limbos-goodies-for-LCDSmartie/.github/blob/main/images/pngs/Georgou.png?raw=true)\
 [Dracula_skin](https://github.com/limbo666/Dracula_for_LCD_Smartie) (This is a part of official Dracula theme on github)\
-![Skin Preview](https://github.com/Limbos-goodies-for-LCDSmartie/.github/blob/main/images/pngs/Dracula.png?raw=true)\
+![Skin Preview](https://github.com/Limbos-goodies-for-LCDSmartie/.github/blob/main/images/pngs/Dracula.png?raw=true)
 
 
 ### Info
