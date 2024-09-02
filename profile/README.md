@@ -71,6 +71,7 @@ A plugin that displays a message when a condition becomes true. Supports value c
 ### Skins
 [NightyNight skin](https://github.com/Limbos-goodies-for-LCDSmartie/NightyNight)\
 [Cream skin](https://github.com/Limbos-goodies-for-LCDSmartie/Cream_Skin)\
+![Skin Preview](https://github.com/Limbos-goodies-for-LCDSmartie/.github/blob/main/images/pngs/Cream.png?raw=true)\
 [Lunar Dust skin](https://github.com/Limbos-goodies-for-LCDSmartie/LunarDust_Skin)\
 [Erebus skin](https://github.com/Limbos-goodies-for-LCDSmartie/Erebus_Skin)\
 [Rainforest skin](https://github.com/Limbos-goodies-for-LCDSmartie/RainForest_Skin)\
