@@ -70,20 +70,33 @@ A plugin that displays a message when a condition becomes true. Supports value c
 
 ### Skins
 [NightyNight skin](https://github.com/Limbos-goodies-for-LCDSmartie/NightyNight)\
+![Skin Preview](https://github.com/Limbos-goodies-for-LCDSmartie/.github/blob/main/images/pngs/NightyNight.png?raw=true)\
 [Cream skin](https://github.com/Limbos-goodies-for-LCDSmartie/Cream_Skin)\
 ![Skin Preview](https://github.com/Limbos-goodies-for-LCDSmartie/.github/blob/main/images/pngs/Cream.png?raw=true)\
 [Lunar Dust skin](https://github.com/Limbos-goodies-for-LCDSmartie/LunarDust_Skin)\
+![Skin Preview](https://github.com/Limbos-goodies-for-LCDSmartie/.github/blob/main/images/pngs/LunarDust.png?raw=true)\
 [Erebus skin](https://github.com/Limbos-goodies-for-LCDSmartie/Erebus_Skin)\
+![Skin Preview](https://github.com/Limbos-goodies-for-LCDSmartie/.github/blob/main/images/pngs/Erebus.png?raw=true)\
 [Rainforest skin](https://github.com/Limbos-goodies-for-LCDSmartie/RainForest_Skin)\
+![Skin Preview](https://github.com/Limbos-goodies-for-LCDSmartie/.github/blob/main/images/pngs/RainForest.png?raw=true)\
 [Dusk skin](https://github.com/Limbos-goodies-for-LCDSmartie/Dusk_Skin)\
+![Skin Preview](https://github.com/Limbos-goodies-for-LCDSmartie/.github/blob/main/images/pngs/Dusk.png?raw=true)\
 [Horizon_skin](https://github.com/Limbos-goodies-for-LCDSmartie/Horizon_Skin)\
+![Skin Preview](https://github.com/Limbos-goodies-for-LCDSmartie/.github/blob/main/images/pngs/Horizon.png?raw=true)\
 [Lighthouse_skin](https://github.com/Limbos-goodies-for-LCDSmartie/Lighthouse_Skin)\
+![Skin Preview](https://github.com/Limbos-goodies-for-LCDSmartie/.github/blob/main/images/pngs/LightHouse.png?raw=true)\
 [RedHeart_skin](https://github.com/Limbos-goodies-for-LCDSmartie/RedHeart_Skin)\
+![Skin Preview](https://github.com/Limbos-goodies-for-LCDSmartie/.github/blob/main/images/pngs/RedHeart.png?raw=true)\
 [Melancholy_skin](https://github.com/Limbos-goodies-for-LCDSmartie/Melancholy_Skin)\
+![Skin Preview](https://github.com/Limbos-goodies-for-LCDSmartie/.github/blob/main/images/pngs/Melancholy.png?raw=true)\
 [LightsOn_skin](https://github.com/Limbos-goodies-for-LCDSmartie/LightsOn_Skin)\
+![Skin Preview](https://github.com/Limbos-goodies-for-LCDSmartie/.github/blob/main/images/pngs/LightsOn.png?raw=true)\
 [Willow_skin](https://github.com/Limbos-goodies-for-LCDSmartie/Willow_Skin)\
+![Skin Preview](https://github.com/Limbos-goodies-for-LCDSmartie/.github/blob/main/images/pngs/Willow.png?raw=true)\
 [Georgou_skin](https://github.com/Limbos-goodies-for-LCDSmartie/Georgou_Skin)\
-[Dracula_skin](https://github.com/limbo666/Dracula_for_LCD_Smartie) (This is a part of official Dracula theme on github) 
+![Skin Preview](https://github.com/Limbos-goodies-for-LCDSmartie/.github/blob/main/images/pngs/Georgou.png?raw=true)\
+[Dracula_skin](https://github.com/limbo666/Dracula_for_LCD_Smartie) (This is a part of official Dracula theme on github)\
+![Skin Preview](https://github.com/Limbos-goodies-for-LCDSmartie/.github/blob/main/images/pngs/Dracula.png?raw=true)\
 
 
 ### Info
