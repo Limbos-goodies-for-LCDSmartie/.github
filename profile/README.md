@@ -60,6 +60,7 @@ A powerful plugin to replace long texts with shorter or replace characters with 
 \
 [Split Title plugin](https://github.com/Limbos-goodies-for-LCDSmartie/Split_Title_plugin)\
 This plugins splits a text into two parts. Its was originaly created to split song title and artist name on the title returned by Winamp.\
+![Maxim Demo](https://github.com/Limbos-goodies-for-LCDSmartie/.github/blob/main/images/gifs/splititle.gif?raw=true)
 \
 [Toggle Text plugin](https://github.com/Limbos-goodies-for-LCDSmartie/Toggle_Text_plugin)\
 This plugin toggles two texts on the same line.\
