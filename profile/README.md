@@ -68,7 +68,7 @@ This plugin toggles two texts on the same line.\
 \
 [Warn If plugin](https://github.com/Limbos-goodies-for-LCDSmartie/Warn_If_plugin)\
 A plugin that displays a message when a condition becomes true. Supports value comparision as >, < , = 
-
+![Warnif Text Demo](https://github.com/Limbos-goodies-for-LCDSmartie/.github/blob/main/images/gifs/warnif.gif?raw=true)
 
 ### Skins
 [PrairieBreeze skin](https://github.com/Limbos-goodies-for-LCDSmartie/PrairieBreeze)\
