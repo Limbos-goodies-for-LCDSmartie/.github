@@ -41,6 +41,7 @@ A plugin to get system info using the AIDA64 utility\
 \
 [CPUt plugin](https://github.com/Limbos-goodies-for-LCDSmartie/CPUt_plugin)\
 A simple utility to display CPU usage (in case that LCD Smartie build in function is not enough for you)\
+![Cput Demo](https://github.com/Limbos-goodies-for-LCDSmartie/.github/blob/main/images/gifs/cput.gif?raw=true)
 \
 [Earthquake2 plugin](https://github.com/Limbos-goodies-for-LCDSmartie/Earthquake2_plugin)\
 Get the latest earthquake info on you screen with this plugin\
