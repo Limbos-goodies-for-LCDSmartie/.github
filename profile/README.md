@@ -17,11 +17,11 @@ The following goodies are available for download:
 
 
 [Probe plugin](https://github.com/Limbos-goodies-for-LCDSmartie/probe)\
-A plugin to get information about the currently active window. This can be used for Actions to switch screen and themes depending on the fucused window.\
+A plugin to get information about the currently active window. This can be used for Actions to switch screens and themes depending on the fucused window.\
 ![Probe Demo](https://github.com/Limbos-goodies-for-LCDSmartie/.github/blob/main/images/gifs/probe.gif?raw=true)
 \
 [Volume plugin](https://github.com/Limbos-goodies-for-LCDSmartie/vol)\
-A plug for LCD Smartie to get the system volume level\
+A plugin for LCD Smartie to get the system volume level\
 ![Vol Demo](https://github.com/Limbos-goodies-for-LCDSmartie/.github/blob/main/images/gifs/vol.gif?raw=true)
 \
 [Barra plugin](https://github.com/Limbos-goodies-for-LCDSmartie/barra)\
@@ -29,7 +29,7 @@ An alternative bar for LCD Smartie with mutiple styles\
 ![Barra demo](https://github.com/Limbos-goodies-for-LCDSmartie/.github/blob/main/images/gifs/barra.gif)
 \
 [VU plugin](https://github.com/Limbos-goodies-for-LCDSmartie/vu)\
-A simple VU meter plugin taht returns the peak values of the left, right and master volume\
+A simple VU meter plugin that returns the peak values of the left, right and master volume\
 ![VU Demo](https://github.com/Limbos-goodies-for-LCDSmartie/.github/blob/main/images/gifs/vu.gif)
 \
 [Activity Indicator plugin](https://github.com/Limbos-goodies-for-LCDSmartie/Activity_Indicator_plugin)\
@@ -48,7 +48,7 @@ Get the latest earthquake info on you screen with this plugin\
 ![Earthquake2 Demo](https://github.com/Limbos-goodies-for-LCDSmartie/.github/blob/main/images/gifs/earth.gif?raw=true)
 \
 [Hold And Scroll plugin](https://github.com/Limbos-goodies-for-LCDSmartie/Hold_And_Scroll_plugin)\
-This plugin keeps steady one part of the screen while scrolls a message on the rest of the availabel blocks\
+This plugin keeps steady one part of the screen while scrolls a message on the rest of the available blocks\
 ![Hold N Scroll Demo](https://github.com/Limbos-goodies-for-LCDSmartie/.github/blob/main/images/gifs/holdnscroll.gif?raw=true)
 \
 [Maxim plugin](https://github.com/Limbos-goodies-for-LCDSmartie/Maxim_plugin)\
@@ -67,7 +67,7 @@ This plugin toggles two texts on the same line.\
 ![Toggle Text Demo](https://github.com/Limbos-goodies-for-LCDSmartie/.github/blob/main/images/gifs/toggle.gif?raw=true)
 \
 [Warn If plugin](https://github.com/Limbos-goodies-for-LCDSmartie/Warn_If_plugin)\
-A plugin that displays a message when a condition becomes true. Supports value comparision as >, < , = 
+A plugin that displays a message when a condition becomes true. Supports the following values comparision: greater than, equal to, smaller than, not equal to<br>
 ![Warnif Text Demo](https://github.com/Limbos-goodies-for-LCDSmartie/.github/blob/main/images/gifs/warnif.gif?raw=true)
 
 ### Skins
