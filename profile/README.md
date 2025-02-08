@@ -44,7 +44,7 @@ A simple utility to display CPU usage (in case that LCD Smartie build in functio
 ![Cput Demo](https://github.com/Limbos-goodies-for-LCDSmartie/.github/blob/main/images/gifs/cput.gif?raw=true)
 \
 [Earthquake2 plugin](https://github.com/Limbos-goodies-for-LCDSmartie/Earthquake2_plugin)\
-Get the latest earthquake info on you screen with this plugin\
+Updated on Feb 2025. Get the latest earthquake info on you screen with this plugin\
 ![Earthquake2 Demo](https://github.com/Limbos-goodies-for-LCDSmartie/.github/blob/main/images/gifs/earth.gif?raw=true)
 \
 [Hold And Scroll plugin](https://github.com/Limbos-goodies-for-LCDSmartie/Hold_And_Scroll_plugin)\
