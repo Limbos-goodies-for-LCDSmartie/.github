@@ -17,8 +17,8 @@ The following goodies are available for download:
 
 [Weather plugin](https://github.com/Limbos-goodies-for-LCDSmartie/wttr_weather_plugin)\
 A plugin to get weather info from wttr.in service. It can fetch Condition, Temperature, Feels Like, Precipitation, Wind Speed, Wind Direction, Humidity, Pressure from the service and displayit on the screen.\
-![Probe Demo](https://github.com/Limbos-goodies-for-LCDSmartie/.github/blob/main/images/gifs/probe.gif?raw=true)
-\
+![Wttr Demo](https://github.com/user-attachments/assets/114facd1-3148-41d4-bec6-34b00d5d5c93)\
+
 [Probe plugin](https://github.com/Limbos-goodies-for-LCDSmartie/probe)\
 A plugin to get information about the currently active window. This can be used for Actions to switch screens and themes depending on the fucused window.\
 ![Probe Demo](https://github.com/Limbos-goodies-for-LCDSmartie/.github/blob/main/images/gifs/probe.gif?raw=true)
