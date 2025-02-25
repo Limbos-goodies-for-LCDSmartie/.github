@@ -15,7 +15,10 @@ The latest version of LCD Smartie can be found on its official github repo: http
 The following goodies are available for download:
 ### Plugins
 
-
+[Weather plugin](https://github.com/Limbos-goodies-for-LCDSmartie/wttr_weather_plugin)\
+A plugin to get weather info from wttr.in service. It can fetch Condition, Temperature, Feels Like, Precipitation, Wind Speed, Wind Direction, Humidity, Pressure from the service and displayit on the screen.\
+![Probe Demo](https://github.com/Limbos-goodies-for-LCDSmartie/.github/blob/main/images/gifs/probe.gif?raw=true)
+\
 [Probe plugin](https://github.com/Limbos-goodies-for-LCDSmartie/probe)\
 A plugin to get information about the currently active window. This can be used for Actions to switch screens and themes depending on the fucused window.\
 ![Probe Demo](https://github.com/Limbos-goodies-for-LCDSmartie/.github/blob/main/images/gifs/probe.gif?raw=true)
